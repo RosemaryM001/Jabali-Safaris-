@@ -1,0 +1,14 @@
+*{
+background-image:url("https://scontent.fnbo10-1.fna.fbcdn.net/v/t1.0-9/16729330_1828651777384769_1489116847464070819_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_eui2=AeF7MgR-jXSSczCXFFObuznU8i3uKJhcbO_yLe4omFxs73lHrY4aDK6otnHLDNrY_vI&_nc_ohc=MdqQbHcFGVMAX8-LefH&_nc_pt=5&_nc_ht=scontent.fnbo10-1.fna&oh=90c35f7551f7f01b65aaf9d7a4990b86&oe=5F4C618A");
+background-size: auto;
+background-repeat: no-repeat;
+}
+#contacts{
+    font-weight: bolder;
+    font-style: italic;
+    text-align: end;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}

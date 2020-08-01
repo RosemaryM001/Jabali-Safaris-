@@ -1,5 +1,5 @@
 *{
-  background-color: green;
+  background-color:green;
 }
 nav{
 margin: o auto;
@@ -26,13 +26,22 @@ background-color: rgba(107, 93, 84, 0.678);
 color: rgba(24, 223, 24, 0.702)
 } 
 h1{
-font-size: 30px;
+font-size: 40x;
 font-weight: bolder;
-font-style: oblique;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-text-align:left;
+text-align:center;
 text-indent: 100px;
 }
+p{
+  text-align:center;
+  font-weight:bold;
+  font-size:medium;
 
-  
+}
+h2{
+  color:black;
+  font-style:italic;
+  justify-content: center;
+  text-align: center;
+  font-size: small;
   
