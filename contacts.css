@@ -1,14 +1,16 @@
-*{
-background-image:url("https://scontent.fnbo10-1.fna.fbcdn.net/v/t1.0-9/16729330_1828651777384769_1489116847464070819_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_eui2=AeF7MgR-jXSSczCXFFObuznU8i3uKJhcbO_yLe4omFxs73lHrY4aDK6otnHLDNrY_vI&_nc_ohc=MdqQbHcFGVMAX8-LefH&_nc_pt=5&_nc_ht=scontent.fnbo10-1.fna&oh=90c35f7551f7f01b65aaf9d7a4990b86&oe=5F4C618A");
+body{
+background-image:url(https://scontent.fnbo9-1.fna.fbcdn.net/v/t1.0-9/96848548_2586961448220461_9193093002749280256_o.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_eui2=AeGYNvq_3p4No0VsoEkUrzgWsvHEP8HJpF6y8cQ_wcmkXm2kdijYOsDURGKIKj6ldtM&_nc_ohc=2ptJITmFBTYAX8nRgW5&_nc_pt=5&_nc_ht=scontent.fnbo9-1.fna&oh=abb2fa72fb68f14aeeace0c14d9276e9&oe=5F4EF71E);
 background-size: auto;
 background-repeat: no-repeat;
 }
 #contacts{
     font-weight: bolder;
     font-style: italic;
-    text-align: end;
-}
-h1{
+    text-align: center;
+    color:black
     font-size: xx-large;
-    font-weight: bolder;
+}
+#phone{
+    float:center;
+    justify-content: center;
 }

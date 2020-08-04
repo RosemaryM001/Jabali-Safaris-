@@ -28,7 +28,6 @@ h2{
 #homeimage{
     border-image: inherit;
     image-orientation: flip;
-    image-size: width=100 height=300;
     padding: 10px;
     border-image-slice: fill;
 }
