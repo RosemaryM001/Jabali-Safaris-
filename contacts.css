@@ -1,0 +1,16 @@
+body{
+background-image:url(https://scontent.fnbo9-1.fna.fbcdn.net/v/t1.0-9/96848548_2586961448220461_9193093002749280256_o.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_eui2=AeGYNvq_3p4No0VsoEkUrzgWsvHEP8HJpF6y8cQ_wcmkXm2kdijYOsDURGKIKj6ldtM&_nc_ohc=2ptJITmFBTYAX8nRgW5&_nc_pt=5&_nc_ht=scontent.fnbo9-1.fna&oh=abb2fa72fb68f14aeeace0c14d9276e9&oe=5F4EF71E);
+background-size: auto;
+background-repeat: no-repeat;
+}
+#contacts{
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    color:black
+    font-size: xx-large;
+}
+#phone{
+    float:center;
+    justify-content: center;
+}
